@@ -79,8 +79,11 @@ button:hover {
 /* Style the screens for option one and option two */
 .option-one-screen,
 .option-two-screen,
-.option-one-end,
-.option-two-end {
+.option-one-screen-two,
+.option-two-screen-two,
+.option-one-end-one,
+.option-two-end 
+{
     background-color: #fff;
     border: 1px solid #ccc;
     padding: 20px;
@@ -92,7 +95,9 @@ button:hover {
 /* Style the images in the screens */
 .option-one-screen img,
 .option-two-screen img,
-.option-one-end img,
+.option-one-screen-two img,
+.option-two-screen-two img,
+.option-one-end-one img,
 .option-two-end img {
     max-width: 100%;
     height: auto;
@@ -102,7 +107,9 @@ button:hover {
 /* Style the text in the screens */
 .option-one-screen h1,
 .option-two-screen h1,
-.option-one-end h1,
+.option-one-screen-two h1,
+.option-two-screen-two h1,
+.option-one-end-one h1,
 .option-two-end h1 {
     font-size: 20px;
     margin-bottom: 20px;
