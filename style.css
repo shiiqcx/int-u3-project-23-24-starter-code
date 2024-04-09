@@ -82,7 +82,8 @@ button:hover {
 .option-one-screen-two,
 .option-two-screen-two,
 .option-one-end-one,
-.option-two-end 
+.option-two-end,
+.option-one-end-one-good
 {
     background-color: #fff;
     border: 1px solid #ccc;
@@ -98,7 +99,9 @@ button:hover {
 .option-one-screen-two img,
 .option-two-screen-two img,
 .option-one-end-one img,
-.option-two-end img {
+.option-two-end img,
+.option-one-end-one-good img
+{
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
@@ -110,7 +113,9 @@ button:hover {
 .option-one-screen-two h1,
 .option-two-screen-two h1,
 .option-one-end-one h1,
-.option-two-end h1 {
+.option-two-end h1,
+.option-one-end-one-good h1
+{
     font-size: 20px;
     margin-bottom: 20px;
 }
