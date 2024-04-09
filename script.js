@@ -36,6 +36,36 @@ helpButton.addEventListener('click', function(){
   optionOneScreenTwo.style.display="block";
   optionOneScreen.style.display="none";
  });
+leaveButton.addEventListener('click', function(){
+  optionOneEndOne.style.display="block";
+  optionOneScreen.style.display="none";
+ });
+takeButton.addEventListener('click', function(){
+  optionTwoScreenTwo.style.display="block";
+  optionTwoScreen.style.display="none";
+ });
+leaveAloneButton.addEventListener('click', function(){
+  optionOneEndOne.style.display="block";
+  optionTwoScreen.style.display="none";
+ });
+leftButton.addEventListener('click', function(){
+  optionTwoEnd.style.display="block";
+  optionOneScreenTwo.style.display="none";
+ });
+rightButton.addEventListener('click', function(){
+  optionOneEndOneGood.style.display="block";
+  optionOneScreenTwo.style.display="none";
+ });
+followRightButton.addEventListener('click', function(){
+  optionOneEndOneGood.style.display="block";
+  optionTwoScreenTwo.style.display="none";
+ });
+leaveLeftButton.addEventListener('click', function(){
+  optionTwoEnd.style.display="block";
+  optionTwoScreenTwo.style.display="none";
+ });
+
+
 
 
 
