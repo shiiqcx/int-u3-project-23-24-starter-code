@@ -24,7 +24,7 @@ body {
 /* Style the body with a background color or image if desired */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: floralwhite;
     text-align: center;
     padding: 20px;
 }
@@ -38,7 +38,7 @@ body {
 
 /* Style the story opening container */
 .story-opening {
-    background-color: #fff;
+    background-color: floralwhite;
     border: 1px solid #ccc;
     padding: 20px;
     border-radius: 10px;
@@ -68,7 +68,7 @@ button {
     font-size: 16px;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #007bff;
+    background-color: darkgray;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -89,8 +89,8 @@ button:hover {
 .option-two-end,
 .option-one-end-one-good
 {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: floralwhite;
+    border: 1px solid: floralwhite;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
